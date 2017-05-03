@@ -9,3 +9,11 @@ Technoloy used pyro (Python Remote Objects) is diferent way to pure socket solut
 python -m Pyro4.naming ## you need run this cmd in bash before to test
 
 To test without raspberry and arduino there are some code comment
+
+In order to test execute
+
+test_socket.py
+
+parking_server.py
+
+serial_com.py
